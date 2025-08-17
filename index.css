@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+
+}
+
+nav{
+
+    display: flex;
+    justify-content: center;
+}
